@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ComingSoon Gplusone_Btn feature.
+ */
+
+include_once('comingsoon_gplusone_btn.features.inc');
