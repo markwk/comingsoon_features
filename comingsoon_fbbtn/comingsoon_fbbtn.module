@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ComingSoon FBbtn feature.
+ */
+
+include_once('comingsoon_fbbtn.features.inc');
