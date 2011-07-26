@@ -1,0 +1,5 @@
+core = "7.x"
+dependencies[] = "mailing_list"
+description = "Provides a way for people to sign up for "Coming Soon" site's mailing list"
+name = "Comingsoon_mailing_list"
+package = "Features"
