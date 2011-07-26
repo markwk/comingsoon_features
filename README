@@ -10,5 +10,23 @@ before the actual launch.
 
 ==========================
 Features:
+-Signup to a mailing list via (project/mailing_list)
+-Share with others via TweetButton, FB Like, and/or Google+1
+
+==========================
+Required Modules:
+http://drupal.org/project/mailing_list
+http://drupal.org/project/fblikebutton
+http://drupal.org/project/tweetbutton
+http://drupal.org/project/fblikebutton
+
+==========================
+Recommended Modules:
+-Boost (improved performance)
 
 
+==========================
+Potential Future Implementation
+-after signing up, create a "recommend" this link that can 
+then be used to count #likes, shares, signups, etc.
+-
