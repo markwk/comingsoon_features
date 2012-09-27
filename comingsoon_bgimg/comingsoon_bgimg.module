@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ComingSoon BgImg feature.
+ */
+
+include_once 'comingsoon_bgimg.features.inc';
