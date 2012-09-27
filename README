@@ -15,10 +15,6 @@ Features:
 
 ==========================
 Required Modules:
-http://drupal.org/project/mailing_list
-http://drupal.org/project/fblikebutton
-http://drupal.org/project/tweetbutton
-http://drupal.org/project/fblikebutton
 
 Current Theme: 
 
@@ -27,13 +23,3 @@ Workable Alternative Themes:
 http://drupal.org/project/corolla (adjust width in theme settings)
 
 
-==========================
-Recommended Modules:
--Boost (improved performance)
-
-
-==========================
-Potential Future Implementation
--after signing up, create a "recommend" this link that can 
-then be used to count #likes, shares, signups, etc.
--
