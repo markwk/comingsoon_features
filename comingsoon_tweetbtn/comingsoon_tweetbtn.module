@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the ComingSoon TweetBtn feature.
- */
-
-include_once('comingsoon_tweetbtn.features.inc');
