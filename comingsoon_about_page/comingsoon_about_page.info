@@ -1,0 +1,6 @@
+name = Comingsoon About Page
+core = 7.x
+package = Features
+dependencies[] = defaultcontent
+features[content][] = comingsoon_about_page
+features[features_api][] = api:1
