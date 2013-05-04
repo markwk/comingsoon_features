@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ComingSoon Joyride Tour feature.
+ */
+
+include_once 'comingsoon_joyride_tour.features.inc';

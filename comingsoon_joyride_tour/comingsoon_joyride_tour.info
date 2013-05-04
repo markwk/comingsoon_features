@@ -1,0 +1,9 @@
+name = ComingSoon Joyride Tour
+core = 7.x
+package = ComingSoon
+dependencies[] = context
+dependencies[] = joyride
+dependencies[] = signup_share_track
+features[context][] = comingsoon_joyride_tour
+features[ctools][] = context:context:3
+features[features_api][] = api:1
